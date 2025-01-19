@@ -15,3 +15,7 @@ The proposed system uses an artificial neural network (ANN) implemented with the
 3. **Data Partitioning**: Splitting data into training and test sets to evaluate model performance.
 4. **Model Optimization**: Fine-tuning the ANN model using optimization techniques like Adam.
 5. **Model Evaluation**: Assessing the performance of the model using appropriate metrics.
+
+## Independent Research Link
+
+[Project Documentation](https://docs.google.com/document/d/1lw-ziAQV_RL9XIHXzcfbVY97-icrC1JJabIXYnCbFEU/edit?usp=sharing)
